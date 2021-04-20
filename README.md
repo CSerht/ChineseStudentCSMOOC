@@ -26,3 +26,5 @@
 [小甲鱼的汇编课程](https://www.bilibili.com/video/av28132657?zw)
 
 注：8086其实不用学太多，李忠的书重点看，王爽的书太老了，有些东西过于过时实在用不到了。
+
+3. [清华大学 汇编语言程序设计](https://www.xuetangx.com/course/THU08091000320/5881441?channel=search_result)
