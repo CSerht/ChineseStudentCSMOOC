@@ -12,3 +12,9 @@
 # 编译原理
 
 [华保健 编译原理](https://mooc.study.163.com/course/1000002001?tid=2403042006&_trace_c_p_k2_=8f6e8efe34fe4b0a9b6a9d040f77ab58) + [配套实验](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/)
+
+# 计算机系统基础
+1. 袁春风 《计算机系统基础》（一）（二）（三），在b站搜索即可，或者在中国大学MOOC，不放链接了
+2. 配套《计算机系统基础》的PA实验，有两个版本：[普通班版本](https://www.bilibili.com/video/BV1a7411w7tC)，相关视频请看up主频道以及评论区获取实验资源；[拔尖班版本](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/)，这个版本只有讲义，根据讲义完成即可，难度较大。
+3. 《计算机系统基础》（四）在中国大学MOOC有，不过可以不用看，看普通班的PA实验即可，这个应该比较旧了。
+4. [计算机系统基础习题课](https://www.bilibili.com/video/BV1qa4y1j7xk)
