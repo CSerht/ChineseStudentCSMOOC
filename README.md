@@ -10,6 +10,11 @@
 5. 爱课程
 6. 实在找不到就【知乎】【Google搜索】
 
+
+# 在线学习平台
+1. 蓝桥云课/实验楼
+2. 头歌（educoder）
+
 # 操作系统 & Linux 0.11 内核学习
 
 1. [国防科技大学操作系统课程](http://www.icourses.cn/sCourse/course_6560.html) + 配套在线实验：[Linux 内核 0.11实验](https://www.educoder.net/paths/2104)
