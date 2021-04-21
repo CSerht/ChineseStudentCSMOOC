@@ -7,7 +7,8 @@
 1. [国防科技大学操作系统课程](http://www.icourses.cn/sCourse/course_6560.html) + 配套在线实验：[Linux 内核 0.11实验](https://www.educoder.net/paths/2104)
 2. [Linux 0.11内核讲解](https://www.bilibili.com/video/BV1AK4y1p7Cm) + 《Linux内核完全注释》（赵炯） + [赵炯官方网站](http://www.oldlinux.org/)
 3. [2021 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://www.bilibili.com/video/BV1HN41197Ko) + [配套实验](http://jyywiki.cn/OS/2021/)
-
+4. [哈工大OS](https://www.icourse163.org/learn/HIT-1002531008?tid=1450346461#/learn/content?type=detail&id=1214728531&cid=1218670719) + [配套实验 实验楼9个实验](https://www.lanqiao.cn/courses/115/learning/?id=374) 
+5. [构建自己的OS内核](https://study.163.com/course/introduction.htm?courseId=1003169025&_trace_c_p_k2_=c4d2fe655af34adb8d9176726a5b56be)
 # 编译原理
 
 [华保健 编译原理](https://mooc.study.163.com/course/1000002001?tid=2403042006&_trace_c_p_k2_=8f6e8efe34fe4b0a9b6a9d040f77ab58) + [配套实验](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/)
