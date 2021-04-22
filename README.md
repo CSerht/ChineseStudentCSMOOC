@@ -24,7 +24,9 @@
 5. [构建自己的OS内核](https://study.163.com/course/introduction.htm?courseId=1003169025&_trace_c_p_k2_=c4d2fe655af34adb8d9176726a5b56be)
 # 编译原理
 
-[华保健 编译原理](https://mooc.study.163.com/course/1000002001?tid=2403042006&_trace_c_p_k2_=8f6e8efe34fe4b0a9b6a9d040f77ab58) + [配套实验](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/)
+1. [华保健 编译原理](https://mooc.study.163.com/course/1000002001?tid=2403042006&_trace_c_p_k2_=8f6e8efe34fe4b0a9b6a9d040f77ab58) + [配套实验](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/)
+2. [哈工大 编译原理](https://www.icourse163.org/learn/HIT-1002123007?tid=1463293441#/learn/content)
+
 
 # 计算机系统基础
 1. 袁春风 《计算机系统基础》（一）（二）（三），在b站搜索即可，或者在中国大学MOOC，不放链接了
