@@ -8,7 +8,8 @@
 3. b站
 4. 网易云课堂
 5. 爱课程
-6. 实在找不到就【知乎】【Google搜索】
+6. 好大学在线
+7. 实在找不到就【知乎】【Google搜索】
 
 
 # 在线学习平台
@@ -22,6 +23,7 @@
 3. [2021 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://www.bilibili.com/video/BV1HN41197Ko) + [配套实验](http://jyywiki.cn/OS/2021/)
 4. [哈工大OS](https://www.icourse163.org/learn/HIT-1002531008?tid=1450346461#/learn/content?type=detail&id=1214728531&cid=1218670719) + [配套实验 实验楼9个实验](https://www.lanqiao.cn/courses/115/learning/?id=374)  + [实验书](https://hoverwinter.gitbooks.io/hit-oslab-manual/content/environment.html)
 5. [构建自己的OS内核](https://study.163.com/course/introduction.htm?courseId=1003169025&_trace_c_p_k2_=c4d2fe655af34adb8d9176726a5b56be)
+6. [现代操作系统 原理与实现 上海交大](https://www.bilibili.com/video/BV18y4y1i73U/?spm_id_from=333.788.recommend_more_video.3)
 # 编译原理
 
 1. [华保健 编译原理](https://mooc.study.163.com/course/1000002001?tid=2403042006&_trace_c_p_k2_=8f6e8efe34fe4b0a9b6a9d040f77ab58) + [配套实验](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/)
